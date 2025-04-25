@@ -28,7 +28,7 @@ def show_history():
 
 root = tk.Tk()
 root.title("Converter")
-root.geometry("400x400")
+root.geometry("400x490")
 
 entry_amount = tk.Entry(root)
 entry_amount.pack(pady=5)
